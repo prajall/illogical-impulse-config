@@ -1,7 +1,0 @@
-2026/04/05-12:06:13.613 2235 Creating DB /home/prajal/.config/google-chrome/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb since it was missing.
-2026/04/05-12:06:13.616 2235 Reusing MANIFEST /home/prajal/.config/google-chrome/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/MANIFEST-000001
-2026/04/05-12:06:13.628 2235 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
-2026/04/05-12:06:16.752 2235 Level-0 table #5: started
-2026/04/05-12:06:16.754 2235 Level-0 table #5: 3271 bytes OK
-2026/04/05-12:06:16.756 2235 Delete type=0 #3
-2026/04/05-12:06:16.756 2221 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

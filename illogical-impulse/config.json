@@ -419,7 +419,7 @@
         },
         "quickToggles": {
             "android": {
-                "columns": 5,
+                "columns": 4,
                 "toggles": [
                     {
                         "size": 2,
@@ -431,11 +431,7 @@
                     },
                     {
                         "size": 1,
-                        "type": "idleInhibitor"
-                    },
-                    {
-                        "size": 1,
-                        "type": "mic"
+                        "type": "colorPicker"
                     },
                     {
                         "size": 1,
@@ -443,15 +439,11 @@
                     },
                     {
                         "size": 1,
-                        "type": "audio"
-                    },
-                    {
-                        "size": 2,
-                        "type": "screenSnip"
+                        "type": "mic"
                     },
                     {
                         "size": 1,
-                        "type": "colorPicker"
+                        "type": "audio"
                     },
                     {
                         "size": 2,

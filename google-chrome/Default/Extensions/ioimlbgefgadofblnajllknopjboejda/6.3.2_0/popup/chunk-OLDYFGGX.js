@@ -1,1 +1,0 @@
-import{S as a}from"./chunk-ERLJG36U.js";var r="firebase",p="11.10.0";a(r,p,"app");
