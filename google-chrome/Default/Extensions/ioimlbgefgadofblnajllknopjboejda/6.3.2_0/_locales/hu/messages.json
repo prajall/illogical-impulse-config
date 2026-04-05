@@ -1,0 +1,11 @@
+{
+   "appDesc": {
+      "message": "Változtasd meg a zene hangmagasságát és sebességét, és loopolj szakaszokat a YouTube-on, Spotify-on és más streaming platformon."
+   },
+   "appName": {
+      "message": "Transpose ▲▼ pitch ▹ speed ▹ loop"
+   },
+   "appShortName": {
+      "message": "Transpose ▲▼"
+   }
+}

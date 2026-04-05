@@ -1,0 +1,6 @@
+2026/04/05-18:27:48.804 784 Reusing MANIFEST /home/prajal/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2026/04/05-18:27:48.813 784 Recovering log #24
+2026/04/05-18:27:48.815 784 Reusing old log /home/prajal/.config/google-chrome/Default/Sync Data/LevelDB/000024.log 
+2026/04/05-18:32:46.074 784 Level-0 table #28: started
+2026/04/05-18:32:46.078 784 Level-0 table #28: 98008 bytes OK
+2026/04/05-18:32:46.080 784 Delete type=0 #24

@@ -1,0 +1,1 @@
+function e(e,r,o){console.error(`[${e}] ${r}`,o??"");try{chrome.runtime.sendMessage({type:"logger-error",entry:{lvl:"error",scope:e,event:r,msg:"string"==typeof o?o:void 0,ctx:o},pageUrl:window.location.href})}catch{}}export{e as l};

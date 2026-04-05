@@ -1,0 +1,11 @@
+{
+   "appDesc": {
+      "message": "Canvia el to i la velocitat de la música i crea bucles de seccions a YouTube, Spotify i altres plataformes de reproducció."
+   },
+   "appName": {
+      "message": "Transpose ▲▼ pitch ▹ speed ▹ loop"
+   },
+   "appShortName": {
+      "message": "Transpose ▲▼"
+   }
+}

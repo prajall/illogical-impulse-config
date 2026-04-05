@@ -1,0 +1,7 @@
+2026/03/31-22:55:27.959 74cb Reusing MANIFEST /home/prajal/.config/google-chrome/Default/IndexedDB/https_filefolio.netlify.app_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/31-22:55:27.959 74cb Recovering log #4
+2026/03/31-22:55:27.960 74cb Reusing old log /home/prajal/.config/google-chrome/Default/IndexedDB/https_filefolio.netlify.app_0.indexeddb.leveldb/000004.log 
+2026/03/31-22:55:28.025 74cb Level-0 table #8: started
+2026/03/31-22:55:28.026 74cb Level-0 table #8: 1664 bytes OK
+2026/03/31-22:55:28.028 74cb Delete type=0 #4
+2026/03/31-22:55:28.028 74cb Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)

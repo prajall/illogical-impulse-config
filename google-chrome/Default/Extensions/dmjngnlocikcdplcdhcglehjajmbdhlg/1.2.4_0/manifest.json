@@ -1,0 +1,16 @@
+{
+   "browser_action": {
+      "default_icon": "icon.png",
+      "default_popup": "popup.html",
+      "default_title": "Generate QR Code From current URL"
+   },
+   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+   "description": "Generate QR Code From current URL",
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDxMK5PT/vv/b/2TyqMByRbZpbOs/JPc/V5RZNrzoiJDM3i1MSr+LGLhWrsLeu9ighpvyp3XxpKUpW15eo0UJJRsBLhXQRwpWLNqaE6UQRKpdXz6yzncAmXFdDeyhrXVQ7q+9/71bvStjsmvrUn3O/4/g3xuf1ks1uuLyMc47SSowIDAQAB",
+   "manifest_version": 2,
+   "name": "Direct URL to QR Code",
+   "options_page": "options.html",
+   "permissions": [ "tabs", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.2.4"
+}

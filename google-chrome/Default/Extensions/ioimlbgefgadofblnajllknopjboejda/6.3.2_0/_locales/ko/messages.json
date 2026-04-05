@@ -1,0 +1,11 @@
+{
+   "appDesc": {
+      "message": "YouTube, Spotify 및 기타 여러 스트리밍 플랫폼에서 직접 음악의 피치와 속도를 변경하고 섹션을 루프하세요."
+   },
+   "appName": {
+      "message": "Transpose ▲▼ pitch ▹ speed ▹ loop"
+   },
+   "appShortName": {
+      "message": "Transpose ▲▼"
+   }
+}

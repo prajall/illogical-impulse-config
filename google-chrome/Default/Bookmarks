@@ -1,0 +1,158 @@
+{
+   "checksum": "c1cb421debea59f8281fc01a3111f8a5",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13419445265804939",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13374227013880817",
+            "date_last_used": "0",
+            "guid": "9a688a65-84ee-43ea-9bbf-c25fb067806c",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "API LISTS SHEET - Google Sheets",
+            "type": "url",
+            "url": "https://docs.google.com/spreadsheets/d/1FHD4bn4lXci3ps7EGgUE2HHgtU2XO_S_A3VBWNDr2lw/edit?gid=0#gid=0"
+         }, {
+            "date_added": "13374227031097853",
+            "date_last_used": "0",
+            "guid": "7fb8f71a-93e8-45c7-ab6d-983209384a2a",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Quiz API list - Google Sheets",
+            "type": "url",
+            "url": "https://docs.google.com/spreadsheets/d/1SDno2CdF89ir4cn2E9WQmcI8Xep2V5Mmn8knSfE7p24/edit?gid=0#gid=0"
+         }, {
+            "date_added": "13374227036006428",
+            "date_last_used": "0",
+            "guid": "9f0fa7d2-8dbf-4c23-b9f7-c6a72473e3f5",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "API LISTS SHEET - Google Sheets",
+            "type": "url",
+            "url": "https://docs.google.com/spreadsheets/d/1FHD4bn4lXci3ps7EGgUE2HHgtU2XO_S_A3VBWNDr2lw/edit?pli=1&gid=0#gid=0"
+         }, {
+            "date_added": "13375520679693834",
+            "date_last_used": "0",
+            "guid": "cbeeaca6-ada8-4afb-adc5-9b42570fee27",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "New Tab",
+            "type": "url",
+            "url": "chrome://newtab/"
+         }, {
+            "date_added": "13376384738822240",
+            "date_last_used": "0",
+            "guid": "f7b1f45d-ac7f-4a9d-8628-92576352cd4f",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(5) WhatsApp",
+            "type": "url",
+            "url": "https://web.whatsapp.com/"
+         }, {
+            "date_added": "13378288727014929",
+            "date_last_used": "0",
+            "guid": "886b57ac-69f3-4039-b3ca-39dac7afe707",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "BMS design",
+            "type": "url",
+            "url": "https://www.figma.com/file/ToxmqmTRXLxMrcnUT6CnRi/service-center?fuid=1148172143189884520&source=email_invite"
+         }, {
+            "date_added": "13384498985608641",
+            "date_last_used": "0",
+            "guid": "1deafd89-ca5e-400a-be3e-755b39c49af4",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ChatGPT",
+            "type": "url",
+            "url": "https://chatgpt.com/c/67b6adcf-e3ac-8006-822d-b86018c30f1f"
+         }, {
+            "date_added": "13385381328583491",
+            "date_last_used": "0",
+            "guid": "6fff5cd6-e69d-4354-a94a-b34562141c3c",
+            "id": "12",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "SaaS",
+            "type": "url",
+            "url": "https://app.diagrams.net/?state=%7B%22ids%22:%5B%221QVXMQIQH3YOkQXeQ6jYI511e50H0nRwA%22%5D,%22action%22:%22open%22,%22userId%22:%22113088463386866045458%22,%22resourceKeys%22:%7B%7D%7D"
+         }, {
+            "date_added": "13387121581624106",
+            "date_last_used": "0",
+            "guid": "7a38be50-decd-4362-946c-72a47ab53adf",
+            "id": "13",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Bid Ask Spreads - Google Slides",
+            "type": "url",
+            "url": "https://docs.google.com/presentation/d/1h_QVUX9NwZnAIji1BZbYI1D7zU-QPoanDtiqVgyaNt4/edit#slide=id.g342b00a4495_0_0"
+         }, {
+            "date_added": "13387376800805605",
+            "date_last_used": "0",
+            "guid": "3582c92b-bfab-4324-8f22-b8aea742dcca",
+            "id": "14",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Mono repo working",
+            "type": "url",
+            "url": "https://claude.ai/chat/0a7a00b5-0904-429c-8207-e5f0ceccd8eb"
+         }, {
+            "date_added": "13419843896778981",
+            "date_last_used": "0",
+            "guid": "901f88ee-597b-4e22-9954-f8ec67068ffa",
+            "id": "16",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Coding Typing Practice | Code at the Speed of Thought",
+            "type": "url",
+            "url": "https://www.typequicker.com/code-typing-practice"
+         } ],
+         "date_added": "13419445265804939",
+         "date_last_used": "0",
+         "date_modified": "13419843896778981",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13419445265804939",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CnAKUAiIgQISSiAAkgE2CjQKDmNocm9tZV9zeW5jX2JtEgU1MSFibRoSCUUdw/qwTgYAEUUdw/qwTgYAKRK4xvqwTgYA6gEMCPCMyM4GEKDlmIYCEgAqGE8rWGhiVWFXcXU0RE5vSkd0WWtyVlE9PUgDEu0BCA0S6AEKHFRkbjVCQ05pME9rcDNZR2tQUzBzcUdVKy9Zaz0SZlo6QURxdEFaeDVQN2dyai9NQS9hQzVZdE11K1JnT0xVblc4emVJa05mTXM4VkFaSHVPb0VPTEp1OUZ1TXRCRDVrdjBJREczTUZiazhJNUNyWG9UL0R0VlY5WHZHNkkxZ2lrZHc9PRgAIAAoADD6tqjQ3Z2MAzi47Kfv2zJAuOyn79syShxsc3R3NXAxb0lURGpjWUNxeWFUNUJ1KzNXMkk9WiAiHv+3TXBkUjJpK2NTUGhpYWU5RW8xZDkvdjI4VFF3PWUJqzCgEusBCAUS5gEKHFBsa3FlTzVQU2lvNGZMNncxZHdpbmdmbURuYz0SZlo6QURxdEFaeDVQN2dyai9NQS9hQzVZdE11K1JnT0o4V2pSdWpydWhjaURIVXY5Q0tZWjBtMm91VldFZjE1NmhpNS9zVjFPUWY5aHlYTUQvdFZYQXV4UHk4aVpLVUY5dEc2Qnc9PRgAIAAoADCW36PPuaaJAziC8tnqqzJAgvLZ6qsyShxkRHhTTzRrbXdFNUhRTTZ0OEdwaFlIQzdvemc9Wh4iHHVuVE1BbmtGYjlya2tXUGdid1BHaXlzdlFuST1lvivuRxLsAQgMEucBChwxdmN6eXE2VFVJMXV0KzcvdWdNVXZkLzVhZVU9EmZaOkFEcXRBWng1UDdncmovTUEvYUM1WXRNdStSZ09HRnFyQmYvMW5OcDl4MldLYVYwZjN6MTNHYmFlRWxLOFk0UWMvRUVjdDRNaS9UQVRvLzVJTU1WMDhwK0dQQmkwTzVwNTZ3PT0YACAAKAAw0KrF24rriwM4y52/sdUyQMudv7HVMkoca0hBZUQzODMwYVl4QVgxVjNiL3VzUU9SNzJNPVofIh3/b1d3UnBBeXNDV3docW9LOURnL09yL0lIUHdVPWXJWWAFEuwBCAsS5wEKHEdNY04zcWg1eFVMaDdHRUt3VW1Sc0I0YXd3RT0SZlo6QURxdEFaeDVQN2dyai9NQS9hQzVZdE11K1JnT24wOVAzWHU2Z3FEWUo5cnRpSlpMZFo2bFRVVmJ4Z1VBamJ1ZkJwanRiK3hBTHo4UmZRTjZEZGQ0RFVzUWVlOW5wazI0YWc9PRgAIAAoADDl9pHZs9GLAziMpeGM0jJAjKXhjNIyShxEN2hiWVdtVVhyYmRSZktmNS9wRTZ5MHBzaFU9Wh8iHf42WXRQcWRiVnBDeUloeUprMklMZnR1NjdPVUU9ZTgUJMUS7AEIBhLnAQocbDhUZnhsSkZ3VThkRy84dlFULzlBZzNObFk0PRJmWjpBRHF0QVp4NVA3Z3JqL01BL2FDNVl0TXUrUmdPU1dXakNBbnZUMlVNZUthRGtETDZITWVIeEFqQzM0OUxleVNDVlJjTTZSbzhNbnU1L2FoQWNXcXFzdmdQWm5IZksvR2VoZz09GAAgACgAMMru2ta5pokDOL/42uqrMkC/+NrqqzJKHDViMjloTG9VV0g3UE5pSmhITDVQUzRUTDNqYz1aHyIdulV4bGZkMmZxVTVtbThsV2hPZjE5N1RrSUU5TT1lvivuRxLtAQgQEugBChxXYW9wOS9WYm11SDh3RWZ0cURSQ0JPeW5YMVk9EmZaOkFEcXRBWng1UDdncmovTUEvYUM1WXRNdStSZ093eTVKSWVWd3RtRkZ4cW5LMTZoZFRONnV5Mmx1VnU3OFpQNVZXalBOYUpuYXQ3cm1EOGtUYi9QTWV2YXd6UGFFRHJ0MzJnPT0YACACKAIwlraN4InWkwM4z7vD4tUzQNO7w+LVM0ocN2RaaGIvMlE5TEhIendOWjBBQXM4akF0REswPVogIh7/7UJrOWw4VzFoVnduSEtVWGl2NWlBSjZlVlk1az1l8WCG6xLsAQgKEucBChxvUFJ0b1VvOVFrc1pGT2trVkxUalBOREdmQlE9EmZaOkFEcXRBWng1UDdncmovTUEvYUM1WXRNdStSZ09VWVZEaHRPcXNzNnVRNTBJTGZWRjFDTTZ6RVQ4MUtsaGM0RHBLK3plMkFkbkFnZStLM2lOOHNxcG1zTkFrQXZjU2VIZkJ3PT0YACAAKAAwmeeV2tScigM465e9+7oyQOuXvfu6MkocQzR4TXB1ZlpuQkRTdFdkN1FRTFIxMW1qQkR3PVofIh37WlNqclYrWVFaM1hwWU5XRXd6MW0rSXRYZ1owPWXvAI6HEuwBCAgS5wEKHFRkUGU4RjRoajROSXNSTmRYSVk5VDA4VGNWdz0SZlo6QURxdEFaeDVQN2dyai9NQS9hQzVZdE11K1JnT1J2OCtJa1N5d0JxT0VGTFNiNjNHMEN4MVdFVWw3RVVhRkc5ZzRKZGdGU3FmdExtL0ZDWWp6eVV2SytZRUJrU3dKRE96Wmc9PRgAIAAoADCOt6LzjMyJAziO/sjTsDJAjv7I07AyShxLSTFRSzFQUEYrQnhGQll2K0hnR0p3elVMa1E9Wh8iHe5uVUhPMWFza3ZZdTRjNFJzNkUrU0FXQTc1Skk9ZQAAAAAS7AEICRLnAQocNVVJZjRTTHdyc040T0N3dXpRTmhFQVl1aTA4PRJmWjpBRHF0QVp4NVA3Z3JqL01BL2FDNVl0TXUrUmdPZ2lhdmdQYlkycGRxeFh5djVQMXI0b1diL0xyK3NSalYxbitRYjNUWFdhUkxneUZJWkkrbjdXTDB3bGUrVnRkMUhBQkpudz09GAAgACgAMJuMgI7Vs4wDOIf8yu+zMkCH/MrvszJKHFhkVWFBWFhqZ0o5RHJvOUFNb09mQVd5R0MxVT1aHyId90JLdjM0ajhhQVdhRUNENGZkeDNkdnh3dEIxZz1lDeXa5xLsAQgHEucBChxVeVlhRHJaRUc3cWM4UGY2aWJYTFZra3IvWnc9EmZaOkFEcXRBWng1UDdncmovTUEvYUM1WXRNdStSZ096bzVvcGtRYmhtYmFOWkJ4ci81TFB4VEwvVTJvTDNPbVZ1OTIxeTdJcDdRb2tMMXpseHZEcEVqM1Fibit3azRQV0N0QVVBPT0YACAAKAAw1r3o2bmmiQM46J7b6qsyQOie2+qrMkocU3NqTGdhUVRmdm5sVGV1WWVzbTFDclNVdWZRPVofIh3dcnJkQ1JNQ1N2NGd2a3laWDBteGNKV0J6T3NNPWW+K+5HEsMBCAISvgEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SZlo6QURxdEFaeElrYXN0N2pMUzd0anhhR3N5WEowNTJqS1MrR0JIYkd6Rkw0V0lvNnBFUndOZ3ZiQko2Ky82ZS9CbWE0Sys2T0czU1M4dzgwSFRIb2NTY05hOWlMWHo2eFo2cnc9PRgAIAAoADCrsOf8vMqTAzgAQABKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEqsBCAESpgEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0STlo6QURxdEFaeXpiME9lVHQ1djVWSXJUQ0svL3ZGQXNNbFl2YkJwaDAxKzEyUU1DVGRRNzh2T1FEYmF3Rld3alZIVjRZRWVsbWlIcVdXMxgAIAAoADCrsOf8vMqTAzgAQABKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEu0BCA4S6AEKHDhuU0x2cmRyTEF3ZGk1VTN5dVptM09nOER4RT0SZlo6QURxdEFaeDVQN2dyai9NQS9hQzVZdE11K1JnT090TmZCWVRQZjNFcVBRNVRNU2lvbEV6VjJCY2VlZVMyYWxndDVDS2kvZ0Q2OVI3NDUrd0s4dWFDek1neTB6N1phVytuYXc9PRgAIAAoADC0lYO1lKWMAzinmIHp3DJAp5iB6dwyShxLZVVzU3Q4bmlSWjdNYzFsTWtQYkRHS3hEc2c9WiAiHv/bbmZ4Tm93cnl1eVA0QVJPVVVSNkhnRVUyVzA0PWV1X4YlEsMBCAMSvgEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SZlo6QURxdEFaeTd1YlQrM3AwOW5KemNNeXIzZ0Z6WUR1NWt2TTNnSmdtUk1hVG1xUHBBTTNOcjFTbGZJdlRPSHQ5U29DU3VwYmY5MVA5ZVYzWm52WUdxOXd3eFpBcjViamFSd3c9PRgAIAAoADCrsOf8vMqTAzgAQABKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAMAE4AA==",
+   "version": 1
+}

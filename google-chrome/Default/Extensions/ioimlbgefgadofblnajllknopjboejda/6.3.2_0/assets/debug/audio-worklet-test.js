@@ -1,0 +1,1 @@
+class s extends AudioWorkletProcessor{process(s,e){return!0}}registerProcessor("transpose_debug_test",s);

@@ -1,0 +1,11 @@
+{
+   "appDesc": {
+      "message": "Muuta musiikin sävelkorkeutta ja nopeutta ja looppaa osioita suoraan YouTubessa, Spotifyssa ja monilla muilla suoratoistoalustoilla."
+   },
+   "appName": {
+      "message": "Transpose ▲▼ pitch ▹ speed ▹ loop"
+   },
+   "appShortName": {
+      "message": "Transpose ▲▼"
+   }
+}

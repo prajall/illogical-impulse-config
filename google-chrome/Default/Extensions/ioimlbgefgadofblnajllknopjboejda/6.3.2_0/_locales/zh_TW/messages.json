@@ -1,0 +1,11 @@
+{
+   "appDesc": {
+      "message": "直接在 YouTube、Spotify 及眾多串流平台上更改音樂的音高與速度，並循環播放指定段落。"
+   },
+   "appName": {
+      "message": "Transpose ▲▼ 音高 ▹ 速度 ▹ 循環"
+   },
+   "appShortName": {
+      "message": "Transpose ▲▼"
+   }
+}
