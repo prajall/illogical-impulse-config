@@ -82,19 +82,27 @@ Item { // Bar content region
             anchors.fill: parent
             spacing: 0
 
-            LeftSidebarButton { // Left sidebar button
-                id: leftSidebarButton
-                Layout.alignment: Qt.AlignVCenter
-                Layout.leftMargin: Appearance.rounding.screenRounding
-                colBackground: barLeftSideMouseArea.hovered ? Appearance.colors.colLayer1Hover : ColorUtils.transparentize(Appearance.colors.colLayer1Hover, 1)
-            }
+            BarGroup {
+                id: middleCenterGroup
+                anchors.verticalCenter: parent.verticalCenter
+                padding: workspacesWidget.widgetPadding
+                Layout.leftMargin: 10 
 
-            ActiveWindow {
-                Layout.leftMargin: 10 + (leftSidebarButton.visible ? 0 : Appearance.rounding.screenRounding)
-                Layout.rightMargin: Appearance.rounding.screenRounding
-                Layout.fillWidth: true
-                Layout.fillHeight: true
-                visible: root.useShortenedForm === 0
+                Workspaces {
+                    id: workspacesWidget
+                    Layout.fillHeight: true
+                    MouseArea {
+                        // Right-click to toggle overview
+                        anchors.fill: parent
+                        acceptedButtons: Qt.RightButton
+
+                        onPressed: event => {
+                            if (event.button === Qt.RightButton) {
+                                GlobalStates.overviewOpen = !GlobalStates.overviewOpen;
+                            }
+                        }
+                    }
+                }
             }
         }
     }
@@ -107,48 +115,6 @@ Item { // Bar content region
             horizontalCenter: parent.horizontalCenter
         }
         spacing: 4
-
-        BarGroup {
-            id: leftCenterGroup
-            anchors.verticalCenter: parent.verticalCenter
-            implicitWidth: root.centerSideModuleWidth
-
-            Resources {
-                alwaysShowAllResources: root.useShortenedForm === 2
-                Layout.fillWidth: root.useShortenedForm === 2
-            }
-
-            Media {
-                visible: root.useShortenedForm < 2
-                Layout.fillWidth: true
-            }
-        }
-
-        VerticalBarSeparator {
-            visible: Config.options?.bar.borderless
-        }
-
-        BarGroup {
-            id: middleCenterGroup
-            anchors.verticalCenter: parent.verticalCenter
-            padding: workspacesWidget.widgetPadding
-
-            Workspaces {
-                id: workspacesWidget
-                Layout.fillHeight: true
-                MouseArea {
-                    // Right-click to toggle overview
-                    anchors.fill: parent
-                    acceptedButtons: Qt.RightButton
-
-                    onPressed: event => {
-                        if (event.button === Qt.RightButton) {
-                            GlobalStates.overviewOpen = !GlobalStates.overviewOpen;
-                        }
-                    }
-                }
-            }
-        }
 
         VerticalBarSeparator {
             visible: Config.options?.bar.borderless
@@ -174,15 +140,6 @@ Item { // Bar content region
                     Layout.fillWidth: true
                 }
 
-                UtilButtons {
-                    visible: (Config.options.bar.verbose && root.useShortenedForm === 0)
-                    Layout.alignment: Qt.AlignVCenter
-                }
-
-                BatteryIndicator {
-                    visible: (root.useShortenedForm < 2 && Battery.available)
-                    Layout.alignment: Qt.AlignVCenter
-                }
             }
         }
     }
@@ -314,6 +271,26 @@ Item { // Bar content region
                         iconSize: Appearance.font.pixelSize.larger
                         color: rightSidebarButton.colText
                     }
+                }
+            }
+
+            VerticalBarSeparator {
+                visible: Config.options?.bar.borderless
+            }
+            BarGroup {
+                id: rightleftGroupContent
+                UtilButtons {
+                    visible: (Config.options.bar.verbose && root.useShortenedForm === 0)
+                    // Layout.alignment: Qt.AlignVCenter
+                    Layout.fillWidth: false
+                    Layout.fillHeight: true
+                }
+
+                BatteryIndicator {
+                    visible: (root.useShortenedForm < 2 && Battery.available)
+                    // Layout.alignment: Qt.AlignVCenter
+                    Layout.fillWidth: false
+                    Layout.fillHeight: true
                 }
             }
 
